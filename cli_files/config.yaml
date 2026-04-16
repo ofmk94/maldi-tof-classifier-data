@@ -1,0 +1,9 @@
+test_size: 0.3
+extractor_cls: "PeakExtractor"
+extractor_params: null
+classifier_cls: "XGBClassifier"
+classifier_params: null
+scaler_cls: "StandardScaler"
+dim_reducer_cls: "PCA"
+n_components: 2
+
